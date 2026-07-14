@@ -6,7 +6,7 @@ establish a robust, single-source-of-truth semantic model designed for fast quer
 
 📌 The Challenge: Messy, Siloed Sheets (Almost a nightmare dataset at begining)
 
-The Source: 15-20 flat, disconnected tables format (.xlsx and .csv).
+The Source: 20+ flat, disconnected tables format (.xlsx and .csv).
 
 <img width="1295" height="742" alt="image" src="https://github.com/user-attachments/assets/04e36519-9993-4529-b258-9c0c24e0b07b" />
 
