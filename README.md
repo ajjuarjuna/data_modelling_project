@@ -1,4 +1,14 @@
 # Data Modelling Project
+<div align="center">
+
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Data Modeling](https://img.shields.io/badge/Data_Modeling-Star_Schema-blue?style=for-the-badge&logo=databricks&logoColor=white)
+![ETL](https://img.shields.io/badge/ETL-Power_Query-orange?style=for-the-badge)
+![DAX](https://img.shields.io/badge/DAX-Optimized-brightgreen?style=for-the-badge)
+
+</div>
+
+---
 
 This project takes 20+ highly fragmented, unstandardized Excel and CSV source tables and engineers them into a clean, high-performance Star/Galaxy Schema within Power BI. The goal of this project was to 
 
