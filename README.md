@@ -22,6 +22,7 @@ The Source: 20+ flat, disconnected tables format (.xlsx and .csv).
 <img width="1277" height="752" alt="image" src="https://github.com/user-attachments/assets/b6f3573d-3e85-4418-b84c-ece373afc471" />
 
 
+
 This data model suffers from several critical architectural flaws that severely limit its analytical usability, performance, and overall data integrity. First, it contains multiple completely disconnected 
 "island" tables, leaving vital operational, reference, and target data entirely unlinked from the core schema, which makes holistic reporting impossible. Crucially, the model relies on highly problematic many-to-
 many relationships between major dimension and fact tables, introducing a severe risk of double-counting, incorrect metric aggregations, and ambiguous filtering paths. This structural instability is further 
